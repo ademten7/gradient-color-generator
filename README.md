@@ -1,3 +1,3 @@
 # Gradient Color Generator App
 
-![gradient](src/images/gradient.png)
+![Gradient](src/images/gradient.png)
