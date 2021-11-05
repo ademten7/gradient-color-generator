@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 3em;
+}
+
+.logo {
+    width: 30%;
+}
+
+.title {
+    display: grid;
+    place-items: center;
+    width: 50%;
+    background: linear-gradient( 90deg, rgba(162, 21, 16, 0.893995098) 0%, #347a48 8%, #cc7d15 17%, #f10f7a 31%, #6ced06 47%, #eeb00a 68%, #deee02 84%, #ee2704 94%);
+    font-size: 3em;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-shadow: 0 0 10px rgb(0 0 0 / 50%);
+}
